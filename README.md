@@ -25,7 +25,6 @@ where:
 - quiet/debug: quiet will just print the stats while debug will print every event that happens
 
 Running Examples:
-------------------------------------
 ./memsim bzip.trace 64 fifo quiet
 total memory frames: 64
 events in trace: 1000000
@@ -67,4 +66,4 @@ total memory frames: 64
 events in trace: 1000000
 total disk reads: 1264
 total disk writes: 420
-------------------------------------
+
